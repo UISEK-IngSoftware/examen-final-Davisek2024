@@ -1,0 +1,23 @@
+.imagen-grande {
+  width: 100%;       /* Ocupa todo el ancho del contenedor */
+  height: auto;      /* Mantiene la proporción */
+  display: block;
+}
+
+.large-avatar {
+  width: 120px;      /* Ajusta este valor según el tamaño deseado */
+  height: 120px;
+}
+
+#home-page ion-item h2 {
+  font-size: 1.5rem;
+}
+
+#home-page ion-item p {
+  font-size: 1.1rem;
+}
+
+#home-page ion-item ion-text {
+  font-size: 1.1rem;
+  font-weight: normal;
+}
